@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background">#F4F9F2</color>
+    <color name="black">#000000</color>
+    <color name="colorPrimary">#1E6F0E</color>
+    <color name="imageBackground">#E1EEDA</color>
+    <color name="popupBackground">#F3F8F0</color>
+    <color name="textPrimary">#1B2418</color>
+    <color name="textSecondary">#5F6B5A</color>
+    <color name="white">#FFFFFF</color>
+    <string name="about_address">180 Cao Lỗ, Phường Chánh Hưng, TP. Hồ Chí Minh</string>
+    <string name="about_call">Gọi</string>
+    <string name="about_call_permission_denied">Bạn chưa cấp quyền gọi điện</string>
+    <string name="about_class">Lớp: %1$s</string>
+    <string name="about_dial">Quay số</string>
+    <string name="about_email">Email: %1$s</string>
+    <string name="about_full_name">Họ tên: %1$s</string>
+    <string name="about_map_attribution">© OpenStreetMap contributors</string>
+    <string name="about_map_marker">Trường Đại học Công nghệ Sài Gòn</string>
+    <string name="about_map_title">Bản đồ: Trường Đại học Công nghệ Sài Gòn</string>
+    <string name="about_no_dialer">Không tìm thấy ứng dụng gọi điện</string>
+    <string name="about_no_email_app">Không tìm thấy ứng dụng gửi email</string>
+    <string name="about_no_network">Không có kết nối mạng nên bản đồ chưa tải được. Vui lòng kiểm tra Wi-Fi/4G rồi mở lại.</string>
+    <string name="about_phone">Điện thoại: %1$s</string>
+    <string name="about_student_id">MSSV: %1$s</string>
+    <string name="about_title">THÔNG TIN CÁ NHÂN</string>
+    <string name="action_cancel">Hủy</string>
+    <string name="action_delete">Xóa</string>
+    <string name="action_edit">Sửa</string>
+    <string name="app_name">Quản lý món ăn</string>
+    <string name="button_choose_image">Chọn ảnh</string>
+    <string name="button_clear">Clear</string>
+    <string name="button_exit">Thoát</string>
+    <string name="button_ok">OK</string>
+    <string name="button_save">Lưu</string>
+    <string name="category_added">Đã thêm danh mục</string>
+    <string name="category_code_hint">Ví dụ: TYPE01</string>
+    <string name="category_code_label">Mã danh mục:</string>
+    <string name="category_delete_blocked_message">Danh mục %1$s đang được %2$d món ăn sử dụng nên không thể xóa.</string>
+    <string name="category_delete_blocked_title">Không thể xóa</string>
+    <string name="category_delete_confirm_message">Bạn có chắc muốn xóa danh mục %1$s?</string>
+    <string name="category_delete_confirm_title">Xác nhận xóa</string>
+    <string name="category_deleted">Đã xóa danh mục</string>
+    <string name="category_duplicate">Mã danh mục đã tồn tại</string>
+    <string name="category_empty_code">Vui lòng nhập mã danh mục</string>
+    <string name="category_empty_name">Vui lòng nhập tên danh mục</string>
+    <string name="category_form_add">Thêm danh mục</string>
+    <string name="category_form_edit">Sửa danh mục</string>
+    <string name="category_name_hint">Ví dụ: Menu Thái</string>
+    <string name="category_name_label">Tên danh mục:</string>
+    <string name="category_title">QUẢN LÝ DANH MỤC</string>
+    <string name="category_updated">Đã cập nhật danh mục</string>
+    <string name="food_add">Thêm món ăn</string>
+    <string name="food_category_label">Danh mục:</string>
+    <string name="food_code_duplicate">Mã món đã tồn tại</string>
+    <string name="food_code_hint">Ví dụ: 1</string>
+    <string name="food_code_invalid">Mã món phải là số nguyên dương</string>
+    <string name="food_code_label">Mã món:</string>
+    <string name="food_delete_confirm_message">Bạn có chắc muốn xóa món %1$s?</string>
+    <string name="food_delete_confirm_title">Xác nhận xóa</string>
+    <string name="food_deleted">Đã xóa món ăn</string>
+    <string name="food_description_hint">Mô tả món ăn</string>
+    <string name="food_description_label">Mô tả:</string>
+    <string name="food_form_add">Thêm món ăn</string>
+    <string name="food_form_edit">Sửa món ăn</string>
+    <string name="food_image">Hình ảnh món ăn</string>
+    <string name="food_image_choose_failed">Không thể đọc ảnh đã chọn</string>
+    <string name="food_list_title_all">TẤT CẢ MÓN ĂN</string>
+    <string name="food_list_title_category">MÓN ĂN - %1$s</string>
+    <string name="food_name_empty">Vui lòng nhập tên món</string>
+    <string name="food_name_hint">Ví dụ: Pad Thai</string>
+    <string name="food_name_label">Tên món:</string>
+    <string name="food_no_category">Vui lòng thêm danh mục trước</string>
+    <string name="food_not_found">Không tìm thấy món ăn</string>
+    <string name="food_price_hint">Ví dụ: 85000</string>
+    <string name="food_price_invalid">Giá không hợp lệ</string>
+    <string name="food_price_label">Giá:</string>
+    <string name="food_save_failed">Không thể lưu món ăn</string>
+    <string name="food_saved">Đã lưu món ăn</string>
+    <string name="hint_long_press">Nhấn giữ vào một dòng để sửa hoặc xóa</string>
+    <string name="login_button">Đăng nhập</string>
+    <string name="login_error_empty">Vui lòng nhập username và password</string>
+    <string name="login_error_wrong">Sai username hoặc password</string>
+    <string name="login_password_hint">•••</string>
+    <string name="login_password_label">Password:</string>
+    <string name="login_username_hint">admin</string>
+    <string name="login_username_label">Username:</string>
+    <string name="menu_about">Giới thiệu</string>
+    <string name="menu_all_foods">Tất cả món ăn</string>
+    <string name="menu_exit">Thoát</string>
+    <style name="Base.Theme.QuanLyMonAn" parent="Theme.Material3.Light.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSecondary">@color/colorPrimary</item>
+        <item name="colorOnSecondary">@color/white</item>
+        <item name="android:windowBackground">@color/background</item>
+        <item name="android:textColorPrimary">@color/textPrimary</item>
+        <item name="android:textColorSecondary">@color/textSecondary</item>
+    </style>
+    <style name="TextAppearance.QuanLyMonAn.ToolbarTitle" parent="TextAppearance.Widget.AppCompat.Toolbar.Title">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="Theme.QuanLyMonAn" parent="Base.Theme.QuanLyMonAn"/>
+    <style name="ThemeOverlay.QuanLyMonAn.PopupMenu" parent="ThemeOverlay.AppCompat.Light">
+        <item name="android:textColorPrimary">@color/textPrimary</item>
+        <item name="android:textColorSecondary">@color/textSecondary</item>
+        <item name="colorOnSurface">@color/textPrimary</item>
+        <item name="colorOnSurfaceVariant">@color/textSecondary</item>
+        <item name="popupMenuStyle">@style/Widget.QuanLyMonAn.PopupMenu</item>
+    </style>
+    <style name="Widget.QuanLyMonAn.PopupMenu" parent="Widget.AppCompat.PopupMenu">
+        <item name="android:popupBackground">@drawable/bg_popup_menu</item>
+        <item name="android:popupElevation">6dp</item>
+    </style>
+</resources>

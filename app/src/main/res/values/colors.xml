@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Mau chinh cua toan bo du an -->
+    <color name="colorPrimary">#1E6F0E</color>
+    <color name="background">#F4F9F2</color>
+    <color name="popupBackground">#F3F8F0</color>
+    <color name="imageBackground">#E1EEDA</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="textPrimary">#1B2418</color>
+    <color name="textSecondary">#5F6B5A</color>
+</resources>

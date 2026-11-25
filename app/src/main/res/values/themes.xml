@@ -1,0 +1,36 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.QuanLyMonAn" parent="Theme.Material3.Light.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSecondary">@color/colorPrimary</item>
+        <item name="colorOnSecondary">@color/white</item>
+        <item name="android:windowBackground">@color/background</item>
+        <item name="android:textColorPrimary">@color/textPrimary</item>
+        <item name="android:textColorSecondary">@color/textSecondary</item>
+    </style>
+
+    <style name="Theme.QuanLyMonAn" parent="Base.Theme.QuanLyMonAn" />
+
+    <!-- Tieu de tren thanh menu (Toolbar) cho de doc hon -->
+    <style name="TextAppearance.QuanLyMonAn.ToolbarTitle"
+        parent="TextAppearance.Widget.AppCompat.Toolbar.Title">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <!-- Popup cua Option Menu: nen sang diu, chu mau toi de doc ro -->
+    <style name="ThemeOverlay.QuanLyMonAn.PopupMenu" parent="ThemeOverlay.AppCompat.Light">
+        <item name="android:textColorPrimary">@color/textPrimary</item>
+        <item name="android:textColorSecondary">@color/textSecondary</item>
+        <item name="colorOnSurface">@color/textPrimary</item>
+        <item name="colorOnSurfaceVariant">@color/textSecondary</item>
+        <item name="popupMenuStyle">@style/Widget.QuanLyMonAn.PopupMenu</item>
+    </style>
+
+    <style name="Widget.QuanLyMonAn.PopupMenu" parent="Widget.AppCompat.PopupMenu">
+        <item name="android:popupBackground">@drawable/bg_popup_menu</item>
+        <item name="android:popupElevation">6dp</item>
+    </style>
+</resources>

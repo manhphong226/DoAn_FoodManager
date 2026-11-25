@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<incidents format="6" by="lint 9.4.1" type="partial_results">
+    <map id="UnsafeImplicitIntentLaunch">
+            <map id="actionsSent">
+                    <map id="android.intent.action.CALL (used to start an activity)">
+                        <location id="0"
+                            file="${:app*debug*MAIN*sourceProvider*0*javaDir*0}/vn/edu/stu/nguyenmanhphong_dh52301513/AboutActivity.java"
+                            line="252"
+                            column="25"
+                            startOffset="9158"
+                            endLine="255"
+                            endColumn="10"
+                            endOffset="9265"/>
+                    </map>
+                    <map id="android.intent.action.DIAL (used to start an activity)">
+                        <location id="0"
+                            file="${:app*debug*MAIN*sourceProvider*0*javaDir*0}/vn/edu/stu/nguyenmanhphong_dh52301513/AboutActivity.java"
+                            line="227"
+                            column="25"
+                            startOffset="8370"
+                            endLine="230"
+                            endColumn="10"
+                            endOffset="8477"/>
+                    </map>
+                    <map id="android.intent.action.SENDTO (used to start an activity)">
+                        <location id="0"
+                            file="${:app*debug*MAIN*sourceProvider*0*javaDir*0}/vn/edu/stu/nguyenmanhphong_dh52301513/AboutActivity.java"
+                            line="215"
+                            column="25"
+                            startOffset="7996"
+                            endLine="218"
+                            endColumn="10"
+                            endOffset="8108"/>
+                    </map>
+            </map>
+    </map>
+    <map id="UnsafeIntentLaunch">
+            <map id="unprotected">
+                <entry
+                    name="vn.edu.stu.nguyenmanhphong_dh52301513.LoginActivity"
+                    boolean="true"/>
+            </map>
+    </map>
+    <map id="UnusedResources">
+        <location id="R.color.black"
+            file="${:app*debug*MAIN*sourceProvider*0*resDir*0}/values/colors.xml"
+            line="9"
+            column="12"
+            startOffset="335"
+            endLine="9"
+            endColumn="24"
+            endOffset="347"/>
+        <entry
+            name="model"
+            string="attr[actionBarSize(R)],color[popupBackground(U),white(U),colorPrimary(U),textPrimary(U),textSecondary(U),imageBackground(U),background(U),black(D)],drawable[ic_app_icon(U),bg_popup_menu(U),bg_row_border(U),ic_add(U),ic_food_placeholder(U)],id[main(U),toolbar(U),tvStudentName(U),tvClassName(U),tvStudentId(U),tvEmail(U),tvPhone(U),btnDial(U),btnCall(U),mapView(U),tvHeader(U),cardForm(U),tvFormTitle(U),etCategoryCode(U),etCategoryName(U),btnClear(U),btnSave(U),tvHint(U),recyclerView(U),ivFoodImage(U),btnChooseImage(U),etFoodCode(U),etFoodName(U),etPrice(U),etDescription(U),spCategory(U),btnExit(U),btnAddFood(U),etUsername(U),etPassword(U),btnLogin(U),tvCategoryCode(U),tvCategoryName(U),tvFoodCode(U),tvFoodName(U),mnuAllFoods(U),mnuAbout(U),mnuExit(U)],layout[activity_about(U),activity_category(U),activity_food_form(U),activity_food_list(U),activity_login(U),item_row_category(U),item_row_food(U)],menu[menu_category(U),menu_main(U)],string[app_name(U),about_title(U),about_dial(U),about_call(U),about_map_title(U),about_address(U),about_map_attribution(U),category_title(U),category_form_add(U),category_code_label(U),category_code_hint(U),category_name_label(U),category_name_hint(U),button_clear(U),button_save(U),hint_long_press(U),food_form_add(U),food_image(U),button_choose_image(U),food_code_label(U),food_code_hint(U),food_name_label(U),food_name_hint(U),food_price_label(U),food_price_hint(U),food_description_label(U),food_description_hint(U),food_category_label(U),button_exit(U),food_list_title_all(U),food_add(U),login_username_label(U),login_username_hint(U),login_password_label(U),login_password_hint(U),login_button(U),menu_all_foods(U),menu_about(U),menu_exit(U),login_error_empty(U),login_error_wrong(U),category_form_edit(U),button_ok(U),category_empty_code(U),category_empty_name(U),category_duplicate(U),category_added(U),category_updated(U),category_deleted(U),category_delete_confirm_title(U),category_delete_confirm_message(U),category_delete_blocked_title(U),category_delete_blocked_message(U),action_edit(U),action_delete(U),action_cancel(U),food_list_title_category(U),food_delete_confirm_title(U),food_delete_confirm_message(U),food_deleted(U),food_form_edit(U),food_code_invalid(U),food_code_duplicate(U),food_name_empty(U),food_price_invalid(U),food_no_category(U),food_saved(U),food_save_failed(U),food_not_found(U),food_image_choose_failed(U),about_full_name(U),about_class(U),about_student_id(U),about_email(U),about_phone(U),about_map_marker(U),about_no_email_app(U),about_no_dialer(U),about_call_permission_denied(U),about_no_network(U)],style[Theme_QuanLyMonAn(U),ThemeOverlay_AppCompat_Dark_ActionBar(R),ThemeOverlay_QuanLyMonAn_PopupMenu(U),TextAppearance_QuanLyMonAn_ToolbarTitle(U),Base_Theme_QuanLyMonAn(U),Theme_Material3_Light_NoActionBar(R),TextAppearance_Widget_AppCompat_Toolbar_Title(R),ThemeOverlay_AppCompat_Light(R),Widget_QuanLyMonAn_PopupMenu(U),Widget_AppCompat_PopupMenu(R)];a^1,b^2^3,34^3^0^8e^8f^3d^90^2^f^3e^4^3f^40^41^42^5^43,35^3^0^8e^8f^3d^90^2^44^f^18^45^46^4^47^5^48^49^4a^4b^4c^19^1f,36^3^0^8e^8f^3d^90^2^f^4d^6^4e^d^4f^50^4^51^5^52^53^54^55^56^57^58^59^4b,37^3^0^8e^8f^3d^90^2^5a^f^18^5b^c,38^3^0^8e^8f^3d^90^2^f^9^5c^4^5d^5^5e^5f^60,39^b^3^4,3a^2^3^6^4e^d^4^5,3b^61^62^63,3c^62^63,8d^91,8f^94^4^5^95,90^93^2,91^92^3^2^7^4^5,95^96^a;;;"/>
+    </map>
+
+</incidents>

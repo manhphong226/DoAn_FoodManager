@@ -1,0 +1,29 @@
+<variant
+    name="debug"
+    package="vn.edu.stu.nguyenmanhphong_dh52301513"
+    minSdkVersion="33"
+    targetSdkVersion="37.0"
+    debuggable="true"
+    mergedManifest="build\intermediates\merged_manifest\debug\processDebugMainManifest\AndroidManifest.xml"
+    manifestMergeReport="build\outputs\logs\manifest-merger-debug-report.txt"
+    partialResultsDir="build\intermediates\android_test_lint_partial_results\debug\lintAnalyzeDebugAndroidTest\out">
+  <buildFeatures/>
+  <sourceProviders>
+  </sourceProviders>
+  <testSourceProviders>
+    <sourceProvider
+        manifests="src\androidTest\AndroidManifest.xml"
+        javaDirectories="src\androidTest\java;src\androidTestDebug\java;src\androidTest\kotlin;src\androidTestDebug\kotlin"
+        resDirectories="src\androidTest\res;src\androidTestDebug\res"
+        assetsDirectories="src\androidTest\assets;src\androidTestDebug\assets"
+        keepRulesDirectories="src\androidTest\keepRules;src\androidTestDebug\keepRules"
+        androidTest="true"/>
+  </testSourceProviders>
+  <testFixturesSourceProviders>
+  </testFixturesSourceProviders>
+  <artifact
+      type="INSTRUMENTATION_TEST"
+      applicationId="vn.edu.stu.nguyenmanhphong_dh52301513.test"
+      desugaredMethodsFiles="C:\Users\ASUS\.gradle\caches\9.6.0\transforms\c5435bee4755a3e78458bcad3b1417f0\transformed\D8BackportedDesugaredMethods.txt">
+  </artifact>
+</variant>

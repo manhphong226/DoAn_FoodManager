@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\9.6.0\\vn.edu.stu.nguyenmanhphong_dh52301513.app-debug-42:\\layout_activity_category.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\9.6.0\\vn.edu.stu.nguyenmanhphong_dh52301513.app-main-44:\\layout\\activity_category.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\9.6.0\\vn.edu.stu.nguyenmanhphong_dh52301513.app-debug-42:\\menu_menu_main.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\9.6.0\\vn.edu.stu.nguyenmanhphong_dh52301513.app-main-44:\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\9.6.0\\vn.edu.stu.nguyenmanhphong_dh52301513.app-debug-42:\\menu_menu_category.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\9.6.0\\vn.edu.stu.nguyenmanhphong_dh52301513.app-main-44:\\menu\\menu_category.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\9.6.0\\vn.edu.stu.nguyenmanhphong_dh52301513.app-debug-42:\\drawable_bg_popup_menu.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\9.6.0\\vn.edu.stu.nguyenmanhphong_dh52301513.app-main-44:\\drawable\\bg_popup_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\9.6.0\\vn.edu.stu.nguyenmanhphong_dh52301513.app-debug-42:\\layout_item_row_food.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\9.6.0\\vn.edu.stu.nguyenmanhphong_dh52301513.app-main-44:\\layout\\item_row_food.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\9.6.0\\vn.edu.stu.nguyenmanhphong_dh52301513.app-debug-42:\\drawable_ic_app_icon.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\9.6.0\\vn.edu.stu.nguyenmanhphong_dh52301513.app-main-44:\\drawable\\ic_app_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\9.6.0\\vn.edu.stu.nguyenmanhphong_dh52301513.app-debug-42:\\layout_activity_food_list.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\9.6.0\\vn.edu.stu.nguyenmanhphong_dh52301513.app-main-44:\\layout\\activity_food_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\9.6.0\\vn.edu.stu.nguyenmanhphong_dh52301513.app-debug-42:\\drawable_ic_food_placeholder.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\9.6.0\\vn.edu.stu.nguyenmanhphong_dh52301513.app-main-44:\\drawable\\ic_food_placeholder.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\9.6.0\\vn.edu.stu.nguyenmanhphong_dh52301513.app-debug-42:\\layout_activity_food_form.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\9.6.0\\vn.edu.stu.nguyenmanhphong_dh52301513.app-main-44:\\layout\\activity_food_form.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\9.6.0\\vn.edu.stu.nguyenmanhphong_dh52301513.app-debug-42:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\9.6.0\\vn.edu.stu.nguyenmanhphong_dh52301513.app-main-44:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\9.6.0\\vn.edu.stu.nguyenmanhphong_dh52301513.app-debug-42:\\drawable_bg_row_border.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\9.6.0\\vn.edu.stu.nguyenmanhphong_dh52301513.app-main-44:\\drawable\\bg_row_border.xml"
+    },
+    {
+        "merged": "vn.edu.stu.nguyenmanhphong_dh52301513.app-debug-42:/layout_activity_login.xml.flat",
+        "source": "vn.edu.stu.nguyenmanhphong_dh52301513.app-main-44:/layout/activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\9.6.0\\vn.edu.stu.nguyenmanhphong_dh52301513.app-debug-42:\\layout_item_row_category.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\9.6.0\\vn.edu.stu.nguyenmanhphong_dh52301513.app-main-44:\\layout\\item_row_category.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\9.6.0\\vn.edu.stu.nguyenmanhphong_dh52301513.app-debug-42:\\layout_activity_about.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\9.6.0\\vn.edu.stu.nguyenmanhphong_dh52301513.app-main-44:\\layout\\activity_about.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\9.6.0\\vn.edu.stu.nguyenmanhphong_dh52301513.app-debug-42:\\drawable_ic_add.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\9.6.0\\vn.edu.stu.nguyenmanhphong_dh52301513.app-main-44:\\drawable\\ic_add.xml"
+    }
+]
